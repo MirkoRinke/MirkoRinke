@@ -16,6 +16,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MirkoRinke&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=MirkoRinke&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MirkoRinke&theme=transparent&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
